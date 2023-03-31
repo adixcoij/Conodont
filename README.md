@@ -1,2 +1,2 @@
 # Conodont
-programing keyboard
+Neovim のためのキーボードです
